@@ -1,0 +1,72 @@
+F:\Projects\ComputerGraphics\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.csproj.AssemblyReference.cache
+F:\Projects\ComputerGraphics\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.MainForm.resources
+F:\Projects\ComputerGraphics\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.csproj.GenerateResource.cache
+F:\Projects\ComputerGraphics\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\ComputerGraphics\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.AssemblyInfoInputs.cache
+F:\Projects\ComputerGraphics\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.AssemblyInfo.cs
+F:\Projects\ComputerGraphics\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.csproj.CoreCompileInputs.cache
+F:\Projects\ComputerGraphics\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.exe
+F:\Projects\ComputerGraphics\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.deps.json
+F:\Projects\ComputerGraphics\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.runtimeconfig.json
+F:\Projects\ComputerGraphics\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.runtimeconfig.dev.json
+F:\Projects\ComputerGraphics\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.dll
+F:\Projects\ComputerGraphics\ComputerGraphics\bin\Debug\net5.0-windows\ref\ComputerGraphics.dll
+F:\Projects\ComputerGraphics\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.pdb
+F:\Projects\ComputerGraphics\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.dll
+F:\Projects\ComputerGraphics\ComputerGraphics\obj\Debug\net5.0-windows\ref\ComputerGraphics.dll
+F:\Projects\ComputerGraphics\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.pdb
+F:\Projects\ComputerGraphics\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.genruntimeconfig.cache
+F:\Projects\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.exe
+F:\Projects\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.deps.json
+F:\Projects\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.runtimeconfig.json
+F:\Projects\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.runtimeconfig.dev.json
+F:\Projects\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.dll
+F:\Projects\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ref\ComputerGraphics.dll
+F:\Projects\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.pdb
+F:\Projects\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.csproj.AssemblyReference.cache
+F:\Projects\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.MainForm.resources
+F:\Projects\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.csproj.GenerateResource.cache
+F:\Projects\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.AssemblyInfoInputs.cache
+F:\Projects\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.AssemblyInfo.cs
+F:\Projects\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.csproj.CoreCompileInputs.cache
+F:\Projects\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.dll
+F:\Projects\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ref\ComputerGraphics.dll
+F:\Projects\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.pdb
+F:\Projects\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.genruntimeconfig.cache
+C:\Users\Grisha\Desktop\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.exe
+C:\Users\Grisha\Desktop\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.deps.json
+C:\Users\Grisha\Desktop\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.runtimeconfig.json
+C:\Users\Grisha\Desktop\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.runtimeconfig.dev.json
+C:\Users\Grisha\Desktop\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.dll
+C:\Users\Grisha\Desktop\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ref\ComputerGraphics.dll
+C:\Users\Grisha\Desktop\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.pdb
+C:\Users\Grisha\Desktop\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.csproj.AssemblyReference.cache
+C:\Users\Grisha\Desktop\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.MainForm.resources
+C:\Users\Grisha\Desktop\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.csproj.GenerateResource.cache
+C:\Users\Grisha\Desktop\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grisha\Desktop\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.AssemblyInfoInputs.cache
+C:\Users\Grisha\Desktop\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.AssemblyInfo.cs
+C:\Users\Grisha\Desktop\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.csproj.CoreCompileInputs.cache
+C:\Users\Grisha\Desktop\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.dll
+C:\Users\Grisha\Desktop\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ref\ComputerGraphics.dll
+C:\Users\Grisha\Desktop\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.pdb
+C:\Users\Grisha\Desktop\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.genruntimeconfig.cache
+D:\Учеба\4 курс\Геометрическое моделирование и компьютерная графика\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.exe
+D:\Учеба\4 курс\Геометрическое моделирование и компьютерная графика\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.deps.json
+D:\Учеба\4 курс\Геометрическое моделирование и компьютерная графика\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.runtimeconfig.json
+D:\Учеба\4 курс\Геометрическое моделирование и компьютерная графика\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.runtimeconfig.dev.json
+D:\Учеба\4 курс\Геометрическое моделирование и компьютерная графика\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.dll
+D:\Учеба\4 курс\Геометрическое моделирование и компьютерная графика\ComputerGraphics_\ComputerGraphics\bin\Debug\net5.0-windows\ComputerGraphics.pdb
+D:\Учеба\4 курс\Геометрическое моделирование и компьютерная графика\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.csproj.AssemblyReference.cache
+D:\Учеба\4 курс\Геометрическое моделирование и компьютерная графика\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.MainForm.resources
+D:\Учеба\4 курс\Геометрическое моделирование и компьютерная графика\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.csproj.GenerateResource.cache
+D:\Учеба\4 курс\Геометрическое моделирование и компьютерная графика\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\4 курс\Геометрическое моделирование и компьютерная графика\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.AssemblyInfoInputs.cache
+D:\Учеба\4 курс\Геометрическое моделирование и компьютерная графика\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.AssemblyInfo.cs
+D:\Учеба\4 курс\Геометрическое моделирование и компьютерная графика\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.csproj.CoreCompileInputs.cache
+D:\Учеба\4 курс\Геометрическое моделирование и компьютерная графика\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.dll
+D:\Учеба\4 курс\Геометрическое моделирование и компьютерная графика\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\refint\ComputerGraphics.dll
+D:\Учеба\4 курс\Геометрическое моделирование и компьютерная графика\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.pdb
+D:\Учеба\4 курс\Геометрическое моделирование и компьютерная графика\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ComputerGraphics.genruntimeconfig.cache
+D:\Учеба\4 курс\Геометрическое моделирование и компьютерная графика\ComputerGraphics_\ComputerGraphics\obj\Debug\net5.0-windows\ref\ComputerGraphics.dll
